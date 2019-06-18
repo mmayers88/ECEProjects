@@ -1,0 +1,13 @@
+4 Threaded Sort:
+time elapsed:
+            1 sec
+        807579 usec
+
+Single Threaded Sort:
+time elapsed:
+           25 sec
+        497517 usec
+
+The comparison speaks for itself.  The single threaded sort took half a minute to complete
+and the 4 threaded sort took about 1 second.  The threads running concurrently were definitely
+more effecient.  They're definitely running much faster than the single threaded bubble sort.

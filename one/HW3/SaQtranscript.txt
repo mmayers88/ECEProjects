@@ -1,0 +1,112 @@
+1st Stack:
+
+Stack Contents: (First out on left)
+EMPTY
+Peek item: 1.#QNAN0
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 0
+Pushed success(1 = true,0 = false): 0
+Stack Contents: (First out on left)
+0.900000 0.800000 0.700000 0.600000 0.500000 0.400000 0.300000 0.200000 0.100000 0.000000 
+Full success(1 = true,0 = false): 1
+Peek item: 0.900000
+Poped item: 0.900000
+Stack Contents: (First out on left)
+0.800000 0.700000 0.600000 0.500000 0.400000 0.300000 0.200000 0.100000 0.000000 
+
+
+New Stack:
+
+Stack Contents: (First out on left)
+EMPTY
+Peek item: 1.#QNAN0
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 0
+Pushed success(1 = true,0 = false): 0
+Stack Contents: (First out on left)
+0.900000 0.800000 0.700000 0.600000 0.500000 0.400000 0.300000 0.200000 0.100000 0.000000 
+Full success(1 = true,0 = false): 1
+Peek item: 0.900000
+Poped item: 0.900000
+Stack Contents: (First out on left)
+0.800000 0.700000 0.600000 0.500000 0.400000 0.300000 0.200000 0.100000 0.000000 
+
+
+Queue:
+
+Queue Contents: (First out on left)
+EMPTY
+Poped item: 0
+Peek item: 0
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 0
+Queue Contents: (First out on left)
+a b c d e f g h i j 
+Full success(1 = true,0 = false): 1
+Peek item: a
+Poped item: a
+Pushed success(1 = true,0 = false): 1
+Peek item: b
+Queue Contents: (First out on left)
+b c d e f g h i j k 
+Pushed success(1 = true,0 = false): 0
+Queue Contents: (First out on left)
+b c d e f g h i j k 
+
+
+Next Queue:
+
+Queue Contents: (First out on left)
+EMPTY
+Poped item: 0
+Peek item: 0
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 1
+Pushed success(1 = true,0 = false): 0
+Queue Contents: (First out on left)
+a b c d e f g h i j 
+Full success(1 = true,0 = false): 1
+Peek item: a
+Poped item: a
+Pushed success(1 = true,0 = false): 1
+Peek item: b
+Queue Contents: (First out on left)
+b c d e f g h i j k 
+Pushed success(1 = true,0 = false): 0
+Queue Contents: (First out on left)
+b c d e f g h i j k 

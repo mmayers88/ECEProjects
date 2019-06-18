@@ -1,0 +1,16 @@
+/bin/cat: apple: No such file or directory
+/bin/cat: banana: No such file or directory
+ayer 162274 Feb  9 18:03 capture.exe
+-rw-r--r--+ 1 mayer mayer   2488 Feb  9 18:03 capture.o
+-rw-------+ 1 mayer mayer    840 Feb  1 18:21 capture.txt
+-rwx------+ 1 mayer mayer     58 Jan 28 11:07 command.txt
+-rwx------+ 1 mayer mayer   2953 Feb  1 18:18 end.c
+-rwx------+ 1 mayer mayer   1120 Jan 31 20:21 endHelp.c
+-rwx------+ 1 mayer mayer    761 Jan 31 20:24 endHelp.h
+-rw-r--r--+ 1 mayer mayer   2000 Feb  9 18:03 endHelp.o
+drwx------+ 1 mayer mayer      0 Feb  1 18:31 HW2-Mayers
+-rwx------+ 1 mayer mayer   5414 Feb  1 21:32 HW2-Mayers.zip
+-rwx------+ 1 mayer mayer    459 Feb  1 18:20 makefile
+-rwx------+ 1 mayer mayer    505 Jan 30 21:20 test.c
+-rwx------+ 1 mayer mayer  48973 Jan 30 21:40 test.exe
+-rwx------+ 1 mayer mayer     99 Jan 28 21:51 text.txt

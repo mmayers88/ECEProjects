@@ -1,0 +1,3 @@
+/bin/ls -l
+/bin/cat apple banana
+/bin/wc -l -w cantelope

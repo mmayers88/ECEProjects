@@ -1,0 +1,15 @@
+total 355
+-rwx------+ 1 mayer mayer   3103 Feb  1 18:19 capture.c
+-rwxr-xr-x+ 1 mayer mayer 162274 Feb 22 14:19 capture.exe
+-rw-r--r--+ 1 mayer mayer   2488 Feb 22 14:19 capture.o
+-rw-------+ 1 mayer mayer      0 Feb 22 14:20 capture.txt
+-rwx------+ 1 mayer mayer     58 Jan 28 11:07 command.txt
+-rwx------+ 1 mayer mayer   2922 Feb  1 21:11 end.c
+-rwxr-xr-x+ 1 mayer mayer 163307 Feb 22 14:19 end.exe
+-rw-r--r--+ 1 mayer mayer   2579 Feb 22 14:19 end.o
+-rwx------+ 1 mayer mayer   1120 Jan 31 20:21 endHelp.c
+-rwx------+ 1 mayer mayer    760 Feb  1 21:08 endHelp.h
+-rw-r--r--+ 1 mayer mayer   1984 Feb 22 14:19 endHelp.o
+-rwx------+ 1 mayer mayer    485 Feb  1 18:31 makefile
+-rw-r--r--+ 1 mayer mayer   2453 Feb  1 21:28 readme.txt
+-rwx------+ 1 mayer mayer     99 Jan 28 21:51 text.txt
